@@ -49,7 +49,7 @@ project/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/kengzas1253/School_tacking_document
 ```
 
 ---
